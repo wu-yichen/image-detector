@@ -33,3 +33,5 @@ pip3 install imageai --upgrade
 ### Image Prediction
 
 ![](rabbit.jpeg)
+
+![](result.png)
