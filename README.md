@@ -1,6 +1,6 @@
 # Image predictor
 
-Image predictor using DenseNet/inception V3
+Image predictor CLI using DenseNet/inception V3
 
 ## Getting Started
 
